@@ -18,7 +18,7 @@ const DOMAIN_URL = 'https://app.meetmighty.com/delivery-admin'; // Don't add sla
 //endregion
 
 //region Google map key
-const googleMapAPIKey = 'YOUR_GOOGLE_MAP_KEY';
+const googleMapAPIKey = 'AIzaSyCGRSk7rUwHzf8vhRIzPp3bmiJDaRt8Ev4';
 //endregion
 
 // region onesignal keys

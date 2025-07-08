@@ -674,11 +674,10 @@ packages:
   flutter_html:
     dependency: "direct main"
     description:
-      path: "."
-      ref: master
-      resolved-ref: "499972779f363e71451839c961565cad2165198c"
-      url: "https://github.com/appmeetmighty/flutter_html/"
-    source: git
+      name: flutter_html
+      sha256: ccb810fcabfce3a7ffaca46e458323915ac7e7fc59082c7357ff848972c02230
+      url: "https://pub.dev"
+    source: hosted
     version: "2.2.1"
   flutter_inappwebview:
     dependency: transitive

@@ -131,10 +131,11 @@ dependencies:
 
   #render htmldata
   photo_view: ^0.14.0
-  flutter_html:
-    git:
-      url: https://github.com/appmeetmighty/flutter_html/
-      ref: master
+  # flutter_html:
+  #   git:
+  #     url: https://github.com/appmeetmighty/flutter_html/
+  #     ref: master
+  flutter_html: 2.2.1
 
   carousel_slider: ^4.2.1
 
