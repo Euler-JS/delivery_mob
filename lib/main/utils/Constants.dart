@@ -23,17 +23,17 @@ const googleMapAPIKey = 'AIzaSyCGRSk7rUwHzf8vhRIzPp3bmiJDaRt8Ev4';
 //endregion
 
 // region onesignal keys
-const mOneSignalAppId = 'YOUR ONE SIGNAL APP ID';
-const mOneSignalRestKey = 'YOUR ONE SIGNAL REST KEY';
+const mOneSignalAppId = '2624bc60-a128-475b-9424-5289588fd980';
+const mOneSignalRestKey = 's_v2_app_eyslyyfbfbdvxfbekkevrd6zqcezpge4e35uh55utp6sfhbmjvppysqssx42w6c4oeh76u7gnedibgqac6d66ffjzgpdr7nep4dip5y';
 const mOneSignalChannelId = 'YOUR ONE SIGNAL CHANNEL ID';
 //endregion
 
 //region  firebase data  for firebase_options.dart
-const String FIREBASE_API_KEY = "AIzaSyCn5WOC9rRJ24Ruo8jjnaX4lStfsY9pyUQ";
-const String FIREBASE_APP_ID = "1:90495039677:android:dc0abe044c928f798a1fd4";
-const String FIREBASE_MESSAGING_SENDER_ID = "90495039677";
-const String FIREBASE_PROJECT_ID = "90495039677";
-const String FIREBASE_STORAGE_BUCKET = "FIREBASE_STORAGE_BUCKET";
+const String FIREBASE_API_KEY = "";
+const String FIREBASE_APP_ID = "";
+const String FIREBASE_MESSAGING_SENDER_ID = "";
+const String FIREBASE_PROJECT_ID = "";
+const String FIREBASE_STORAGE_BUCKET = "";
 
 //region  firebase data  for firebase_options.dart FOR IOS APP USE
 const String FIREBASE_APP_ID_IOS = "FIREBASE_APP_ID_IOS";
