@@ -19,6 +19,7 @@ const DOMAIN_URL = 'https://app.meetmighty.com/delivery-admin'; // Don't add sla
 
 //region Google map key
 const googleMapAPIKey = 'AIzaSyCGRSk7rUwHzf8vhRIzPp3bmiJDaRt8Ev4';
+// const myGoogleMapAPIKey = 'AIzaSyCc_QAuSZWSS63Ep3wDqd1MNC1SFIeeTK4';
 //endregion
 
 // region onesignal keys
@@ -28,17 +29,17 @@ const mOneSignalChannelId = 'YOUR ONE SIGNAL CHANNEL ID';
 //endregion
 
 //region  firebase data  for firebase_options.dart
-const String FIREBASE_API_KEY = "FIREBASE_API_KEY";
-const String FIREBASE_APP_ID = "FIREBASE_APP_ID";
-const String FIREBASE_MESSAGING_SENDER_ID = "FIREBASE_MESSAGING_SENDER_ID";
-const String FIREBASE_PROJECT_ID = "FIREBASE_PROJECT_ID";
+const String FIREBASE_API_KEY = "AIzaSyCn5WOC9rRJ24Ruo8jjnaX4lStfsY9pyUQ";
+const String FIREBASE_APP_ID = "1:90495039677:android:dc0abe044c928f798a1fd4";
+const String FIREBASE_MESSAGING_SENDER_ID = "90495039677";
+const String FIREBASE_PROJECT_ID = "90495039677";
 const String FIREBASE_STORAGE_BUCKET = "FIREBASE_STORAGE_BUCKET";
 
 //region  firebase data  for firebase_options.dart FOR IOS APP USE
 const String FIREBASE_APP_ID_IOS = "FIREBASE_APP_ID_IOS";
 
 //for ios
-const String ANDROID_CLIENT_ID = 'ANDROID_CLIENT_ID';
+const String ANDROID_CLIENT_ID = '1:90495039677:android:dc0abe044c928f798a1fd4';
 const String IOS_CLIENT_ID = 'IOS_CLIENT_ID';
 const String IOS_BUNDLE_ID = 'IOS_BUNDLE_ID';
 //endregion
